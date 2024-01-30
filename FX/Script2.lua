@@ -3,3 +3,5 @@
 @author Mattia Marini
 @version 1.0.0
 ]]--
+
+reaper.ConsoleShowMessage("diocan")
