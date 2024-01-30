@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Marini Scripts 2OC"/>
+<index version="1" name="Marini Scripts 2OC" commit="6ae831e0ade03a32028a9ee43eb6f5dc2682e1e9">
+  <category name="FX">
+    <reapack name="ReaLink.lua" type="script" desc="ReaLink">
+      <version name="1.0.0" author="Mattia Marini" time="2024-01-30T16:40:56Z">
+        <source main="main" platform="darwin" file="ReaLink/Marini_ReaLink_Background.lua">https://github.com/mattia-marini/Marini-Scripts-2/raw/6ae831e0ade03a32028a9ee43eb6f5dc2682e1e9/FX/ReaLink/Marini_ReaLink_Background.lua</source>
+        <source main="main" platform="darwin" file="ReaLink/Marini_ReaLink_Ui_Toggle.lua">https://github.com/mattia-marini/Marini-Scripts-2/raw/6ae831e0ade03a32028a9ee43eb6f5dc2682e1e9/FX/ReaLink/Marini_ReaLink_Ui_Toggle.lua</source>
+        <source main="main" platform="darwin" file="ReaLink/Marini_Realink_Toggle_Autostart.lua">https://github.com/mattia-marini/Marini-Scripts-2/raw/6ae831e0ade03a32028a9ee43eb6f5dc2682e1e9/FX/ReaLink/Marini_Realink_Toggle_Autostart.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Script2.lua" type="script" desc="Script di prova">
+      <version name="1.0.0" author="Mattia Marini" time="2024-01-30T16:40:56Z">
+        <source main="main">https://github.com/mattia-marini/Marini-Scripts-2/raw/6ae831e0ade03a32028a9ee43eb6f5dc2682e1e9/FX/Script2.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
