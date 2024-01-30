@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" commit="c8045adfe3297ecafdacf3fc9ad29ea37d026dbd" name="Marini Scripts">
+<index version="1" commit="cdbc37e27df3ce518f4ec15d998d8d26f52321a0" name="Marini Scripts">
   <category name="FX">
     <reapack name="ReaLink.lua" type="script" desc="ReaLink">
       <version name="1.0.0" author="Mattia Marini" time="2024-01-30T16:40:56Z">
@@ -11,6 +11,9 @@
     <reapack name="Script2.lua" type="script" desc="Script di prova">
       <version name="1.0.0" author="Mattia Marini" time="2024-01-30T16:40:56Z">
         <source main="main">https://github.com/mattia-marini/Marini-Scripts-2/raw/6ae831e0ade03a32028a9ee43eb6f5dc2682e1e9/FX/Script2.lua</source>
+      </version>
+      <version name="1.0.1" author="Mattia Marini" time="2024-01-30T16:49:23Z">
+        <source main="main">https://github.com/mattia-marini/Marini-Scripts-2/raw/cdbc37e27df3ce518f4ec15d998d8d26f52321a0/FX/Script2.lua</source>
       </version>
     </reapack>
   </category>
